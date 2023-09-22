@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="UTF-8">
-    <title>Calculadora em Java</title>
-</head>
-
-<body>
     <h1>Calculadora em Java</h1>
 
     <p>Este é um projeto de uma calculadora simples desenvolvida em Java. A calculadora oferece funcionalidades básicas de
@@ -36,6 +27,3 @@
     <p>Este projeto é mantido por [Seu Nome] e recebe contribuições da comunidade de desenvolvedores. Se você deseja
         contribuir com melhorias ou correções, sinta-se à vontade para fazer um "fork" (clone) deste repositório,
         fazer as alterações desejadas e enviar um "pull request" (solicitação de incorporação) para análise.</p>
-</body>
-
-</html>
