@@ -12,10 +12,10 @@
    ## Como os usuários podem começar a usar o projeto
    Para começar a usar o projeto, siga estas etapas:
    
-   Clone este repositório para sua máquina local.
-   Abra o projeto em sua IDE Java preferida (como o NetBeans, Eclipse, IntelliJ, etc.).
-   Compile e execute o programa.
-   Use a interface da calculadora para realizar cálculos matemáticos.
+   Faça o download dos arquivos anexados nesse repositório.
+   Abra o projeto no Netbeans e execute o programa.
+   Edite os números que desejar fazer a operação na classe de testes de cada operação.
+   Pressione Run File para obter o resultado.
     
 
    ## Onde os usuários podem obter ajuda com seu projeto
