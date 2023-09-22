@@ -18,9 +18,9 @@
    Use a interface da calculadora para realizar cálculos matemáticos.
     
 
-    ## Onde os usuários podem obter ajuda com seu projeto
+   ## Onde os usuários podem obter ajuda com seu projeto
    Se você tiver dúvidas, problemas ou precisar de ajuda com este projeto, sinta-se à vontade para abrir uma
    "Issue" (questão) neste repositório no GitHub.
 
-    ## Quem mantém e contribui com o projeto
+   ## Quem mantém e contribui com o projeto
    Este projeto é mantido por Rodrigo Lopes.
