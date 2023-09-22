@@ -9,8 +9,8 @@
    Este projeto é útil para demonstrar os conceitos de programação em Java e oferece uma calculadora funcional que
    pode ser usada como ponto de partida para o desenvolvimento de aplicativos mais complexos.
 
-   Como os usuários podem começar a usar o projeto
-   ## Para começar a usar o projeto, siga estas etapas:
+   ## Como os usuários podem começar a usar o projeto
+   Para começar a usar o projeto, siga estas etapas:
    
    Clone este repositório para sua máquina local.
    Abra o projeto em sua IDE Java preferida (como o NetBeans, Eclipse, IntelliJ, etc.).
