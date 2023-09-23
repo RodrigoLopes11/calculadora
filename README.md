@@ -24,4 +24,4 @@
    "Issue" (questão) neste repositório no GitHub.
 
    ## Quem mantém e contribui com o projeto
-   Este projeto é mantido por Rodrigo Lopes.
+   Este projeto é mantido por Rodrigo Lopes, com contribuição do próprio.
