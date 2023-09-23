@@ -1,5 +1,5 @@
    # Calculadora em Java
-   Este é um projeto de uma calculadora simples desenvolvida em Java. A calculadora oferece funcionalidades básicas de
+   Este é um projeto de uma calculadora simples desenvolvida em Java, onde o usuário terá a escolha de utilizar ou não a ferramenta JUnit. A calculadora oferece funcionalidades básicas de
    cálculos matemáticos, como adição, subtração, multiplicação e divisão.
 
    ## O que o projeto faz
@@ -16,6 +16,7 @@
    Abra o projeto no Netbeans e execute o programa.
    Edite os números que desejar fazer a operação na classe de testes de cada operação.
    Pressione Run File para obter o resultado.
+   Se utilizar a Calculadora com JUnit, o programa apresentará um ERRO, caso o número que o usuário selecionou para testar seja diferente do resultado da operação.
     
 
    ## Onde os usuários podem obter ajuda com seu projeto
